@@ -9,6 +9,9 @@
     },
     "plan": {
       "color": "#FF9E3B"
+    },
+    "code-audit": {
+      "color": "#E82424"
     }
   }
 }
