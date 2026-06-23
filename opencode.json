@@ -3,6 +3,17 @@
   "plugin": [
     "opencode-gemini-auth@latest"
   ],
+  "skills": {
+    "paths": [
+      "~/.config/opencode/skills"
+    ]
+  },
+  "permission": {
+    "skill": {
+      "caveman": "allow",
+      "*": "allow"
+    }
+  },
   "agent": {
     "build": {
       "color": "#76946A"
